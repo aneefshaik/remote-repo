@@ -17,3 +17,5 @@ echo "And this is a number: $VALUE" # display content of variable
 echo
 echo "I'm giving you back your prompt now."
 echo
+hi 
+hello
